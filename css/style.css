@@ -1,0 +1,39 @@
+h1{
+   
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    color: rgb(220, 158, 166);
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+    font-size: 35px;
+}
+
+#container{
+    text-align: center;
+    background-image: url(../assists/4e7eff33c04ce7e038097f59f69c331b.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: rgb(244, 207, 212);
+    color: black;
+    border-radius: 15px;
+    font-weight: 400;
+}
+button:hover{
+    background-color: rgb(67, 65, 65);
+    color: black;
+}
+#output{
+    background-color: rgb(244, 207, 212);
+    margin-top:100px ;
+    font-size: xx-large;
+
+}
+
